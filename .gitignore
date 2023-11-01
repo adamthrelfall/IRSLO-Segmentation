@@ -1,0 +1,7 @@
+SLO/*
+dev/
+model_trained_UNet_full.pt
+segment_images.py
+.ipynb_checkpoints/
+unet/__pycache__
+__pycache__
