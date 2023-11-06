@@ -2,9 +2,8 @@
 ## Introduction:
 This code is designed to segment retinal infra-red scanning laser ophthalmoscope (IRSLO) images into their respective vessel maps.
 
-
 ## Installation:
-###For everyone:
+### For everyone:
 Install Anaconda on your device (or any other python package manager of your choice, we recommend either Anaconda or Mamba).
 If on Windows, open an `Anaconda Powershell Prompt` from the start menu. If you are on a Unix system, open the terminal and type `conda` to activate anaconda.
 Navigate to the folder that the repository was cloned into, using the command `cd /path/to/directory` (this can usually be copied and pasted from the address bar of Windows file explorer or the relevant Unix equivalent).
