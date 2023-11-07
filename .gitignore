@@ -1,5 +1,5 @@
-SLO/*
-SLO_out/*
+SLO/*/*.jpg
+SLO_out/*/*.png
 dev/
 model_trained_UNet_full.pt
 segment_images.py

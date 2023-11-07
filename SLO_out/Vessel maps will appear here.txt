@@ -1,0 +1,1 @@
+After you have run the segmentation, the binary vessel maps will appear in this folder, using the same directory structure as was used in the SLO folder.
